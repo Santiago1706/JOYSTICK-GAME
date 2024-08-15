@@ -121,6 +121,7 @@
             <img src="https://colegiodivinosalvadorcali.edu.co/images/fixed/ESCUDO%20OFICIAl.png" alt="Logo 1">
         </div>
         <h1>Joystick Game</h1>
+        <h1>Santiago Laiseca / Nicolas Combita</h1>
     </header>
 
        
