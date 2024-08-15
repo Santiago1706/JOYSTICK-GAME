@@ -128,10 +128,11 @@
     <nav>
         <div class="Menu">
             <ul>
-                <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/PROYECTOS%20DE%20MATRIZ%20LED%20PAGINA%20PRINCIPAL.html">Página Principal</a></li>
+                <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/JOYSTICK%20GAME.html">joystick game</a></li>
+                <li><a href="">Página Principal</a></li>
                 <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/PANTALLA%20DE%20LETRAS.html">Pantalla de Letras</a></li>
                 <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/JUEGO%20DE%20JOYSTICK.html">Juego con Joystick</a></li>
-                <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/JOYSTICK%20GAME.html">joystick game</a></li>
+                <li><a href="https://santiago1706.github.io/JOYSTICK-GAME/">joystick game</a></li>
             </ul>   
         </div>
     </nav>
